@@ -27,7 +27,7 @@ Iván
 <hr>
 
 ## Estudios
-Educación pimaria - Educación secundaria y Grado medio de SMR (`IFP Hospitalet`)
+**Educación pimaria** - **Educación secundaria** y **Grado medio de SMR** (`IFP Hospitalet`)
 <hr>
 
 ### Hobbies
