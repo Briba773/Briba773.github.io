@@ -30,9 +30,9 @@ Iván
 **Educación pimaria** - **Educación secundaria** y **Grado medio de SMR** (`IFP Hospitalet`)
 <hr>
 
-### Hobbies
+## Hobbies
 Aprender de temas relacionados con la física y la ciencia, jugar videojuegos y practicar deporte.
-### Experiencia laboral
+## Experiencia laboral
 Practicas en empresa de desarrollo de aplicaciones.
-### Preferencias profesionales
+## Preferencias profesionales
 Programación de Videojuegos
