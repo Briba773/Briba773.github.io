@@ -2,6 +2,7 @@
 <section>
 ::after
 </section>
+<hr>
 
 ## Información personal
 ### Nombre
@@ -15,4 +16,14 @@ Iván
 <img src="/peter.PNG" alt="imagen">
 </p>
 
-**Bold** and _Italic_ and `Code` text
+### Numero telefónico
+640678625
+### Código postal
+08830
+<section>
+</section>
+<hr>
+
+## Estudios
+Educación pimaria - Educación secundaria y Grado medio de SMR (`IFP Hospitalet`)
+**Bold** and *Italic* and `Code` text
