@@ -1,4 +1,8 @@
-# Hola mu wenas
+# Curriculum
+<section>
+::after
+</section>
+
 esto es prueba
 ## Viva er bicho
 siuuu
