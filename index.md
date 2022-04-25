@@ -15,7 +15,7 @@ Iván
 
 ### Foto de mi
 <p>
-<img src="/micara.PNG" alt="imagen" height="200px">
+<img src="/peter.PNG" alt="imagen" height="200px">
 </p>
 
 ### Numero telefónico
