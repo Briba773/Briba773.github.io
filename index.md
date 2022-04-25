@@ -1,9 +1,9 @@
 # Hola mu wenas
-esto es prueba
+**esto es prueba**
 ## Viva er bicho
-siuuu
+_siuuu_
 ### shakala pakala bakala wakala
-aaaaaaaaaa
+`aaaaaaaaaa`
 - no me 
 - gustan
 1. Lentejas
