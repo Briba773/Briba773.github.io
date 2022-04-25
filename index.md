@@ -1,6 +1,6 @@
 # Curriculum
 <section>
-::after
+<p></p>
 </section>
 <hr>
 
@@ -21,6 +21,7 @@ Iván
 ### Código postal
 08830
 <section>
+<p></p>
 </section>
 <hr>
 
