@@ -1,6 +1,6 @@
 # Curriculum
 <section>
-<p></p>
+<br>
 </section>
 <hr>
 
