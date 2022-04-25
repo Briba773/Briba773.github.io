@@ -8,8 +8,7 @@
 ### Nombre
 Iván
 ### Apellidos
-- Bautista 
-- Domínguez
+- Bautista - Domínguez
 ### Fecha de Nacimiento
 - 7 de abril de 2004
 
