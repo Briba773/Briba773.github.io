@@ -18,9 +18,9 @@ Iván
 </p>
 
 ### Numero telefónico
-640678625
+- 640678625
 ### Código postal
-08830
+- 08830
 <section>
 <p></p>
 </section>
@@ -28,5 +28,11 @@ Iván
 
 ## Estudios
 Educación pimaria - Educación secundaria y Grado medio de SMR (`IFP Hospitalet`)
+## Hobbies
+Aprender de temas relacionados con la física y la ciencia, jugar videojuegos y practicar deporte.
+### Experiencia laboral
+Practicas en empresa de desarrollo de aplicaciones.
+### Preferencias profesionales
+
 
 **Bold** and *Italic* and `Code` text
