@@ -12,6 +12,8 @@ Iván
 - Domínguez
 ### Fecha de Nacimiento
 - 7 de abril de 2004
+
+### Foto de mi
 <p>
 <img src="/peter.PNG" alt="imagen">
 </p>
