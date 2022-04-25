@@ -14,7 +14,7 @@ Iván
 
 ### Foto de mi
 <p>
-<img src="/peter.PNG" alt="imagen" height="200px">
+<img src="/micara.PNG" alt="imagen" height="200px">
 </p>
 
 ### Numero telefónico
@@ -35,6 +35,4 @@ Aprender de temas relacionados con la física y la ciencia, jugar videojuegos y 
 ### Experiencia laboral
 Practicas en empresa de desarrollo de aplicaciones.
 ### Preferencias profesionales
-
-
-**Bold** and *Italic* and `Code` text
+Programación de Videojuegos
